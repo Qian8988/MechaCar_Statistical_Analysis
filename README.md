@@ -57,7 +57,7 @@ Metrics
 
 Engine, MPG and the safety rating
 
-Null Hypothesis (Ho): Each performance metrics is statistically similar between MechaCar and other manufacturers.
+Null Hypothesis (Ho): Each performance metrics is statistically similar between MechaCar and other competitor manufacturers.
 
-We can do tests to see if each performance metrics of MechaCar is much different from the competition manufacturers. To do this we will need to collect data from different types of competitor vehicles.
+We can do t-tests to see if each performance metrics of MechaCar is much different from the competition manufacturers. To do this we will need to collect data from different types of competitor vehicles.
 
