@@ -19,7 +19,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 
 ## Deliverable 1: Linear Regression to Predict MPG
 
-1.	The vehicle length, vehicle_weight, and vehicle ground clearance are likely to provide non-random amounts of variance to the MPG values in the MechaCar_mpg dataset. 
+1.	The vehicle length and ground clearance (and Intercept) are likely to provide non-random amounts of variance to the MPG values in the MechaCar_mpg dataset. 
 
 2.	The p-Value: 5.35e-11, is much smaller than the assumed significance level of 0.05%. This indicates there is sufficient evidence to reject the null hypothesis, that the slope of this linear model is not zero.
 
