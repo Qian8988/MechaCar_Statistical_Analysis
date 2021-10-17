@@ -14,6 +14,8 @@ Run t-tests to determine if the manufacturing lots are statistically different f
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 
+[MechaCarChallenge.RScript](MechaCarChallenge.RScript)
+
 
 ## Deliverable 1: Linear Regression to Predict MPG
 
