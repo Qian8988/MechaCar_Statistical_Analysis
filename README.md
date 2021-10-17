@@ -53,9 +53,7 @@ But for Lot 3, with the p-Value of 0.04, which is lower than the significance le
 
 To compare the performance of the MechaCar against other manufacturers
 
-Metrics
-
-Engine, MPG and the safety rating
+Metrics: Engine, MPG and the safety rating
 
 Null Hypothesis (Ho): Each performance metrics is statistically similar between MechaCar and other competitor manufacturers.
 
